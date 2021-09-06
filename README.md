@@ -14,6 +14,13 @@ I've added 35 products with 5 attributes for each product
 4.date
 5.e_date
 
+# sales.json file
+It has 4 attributes for each product sales record
+1.product
+2.quantity
+3.amount
+4.purchase time
+
 # My project can do the following things
 1.Generate Bils
 2.Update Inventory
